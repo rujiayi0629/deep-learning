@@ -6,3 +6,6 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 venv/
+
+# 数据集(软链接到 ~/Code/data)
+data
